@@ -6,5 +6,6 @@ Le projet choisi consisite à étudier l'influence du vent sur le tablier ("deck
 L'étude est centrée sur un nombre réduit de modes (14) puisque pour une structure de cette taille, les modes les plus problématiques concernent les basses fréquences. 
 
 Le code contenant l'analyse de la section s'intitule : Project_section.mat
-Le code contenant l'analyse de la du tablier entier s'intitule : Project_fullbridge.mat
+Le code contenant l'analyse de la du tablier entier s'intitule : Project_fullbridge.mat [Project_fullbridge]()
+
 Les données et fonctions permettant de faire fonctionner le code sont disponibles au téléchargement dans le même répertoire.
